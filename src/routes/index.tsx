@@ -13,7 +13,7 @@ export default function Home() {
       <Title>Bun</Title>
       <h1>Solid start - Bun</h1>
       <form method="post" action={nonWorking}>
-        <input type="text" name="name" />
+        <input type="text" name="name" style="margin-right: 1em" />
         <button type="submit">Submit</button>
       </form>
     </main>
