@@ -1,4 +1,4 @@
-# Example of non working action in solid start, also happens in sveltekit
+# Example of non working action in SolidStart, also happens in SvelteKit, Astro, Quick and others
 
 Works fine in node, but fails in bun
 
